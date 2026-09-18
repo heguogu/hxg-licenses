@@ -37,13 +37,13 @@
       "status": "active"
     },
     "vgjeYaP6HVZqMGgh99": {
-      "activated_at": null,
+      "activated_at": 1789744479089,
       "days": 30,
       "expiry": 1792336267456,
-      "machine": null,
+      "machine": "G:8748c3ef-4da4-4f1f-9ec9-c46db8ccce5b",
       "status": "active"
     }
   },
-  "signature": "MvVeQ4LpNTVvM1oqA7QUwHLI6zia8tX/jk1nCQBK6ug=",
+  "signature": "WjZllWIvvkO3+uOPUEhMx2BobBQ/zRKYyc4SyWtO6ng=",
   "version": 1
 }
