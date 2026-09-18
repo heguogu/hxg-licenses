@@ -1,28 +1,14 @@
 {
-  "generated_at": 1789731905975,
+  "generated_at": 1789736196417,
   "licenses": {
-    "62ED-7623-02B7-1502": {
+    "AE39-2D65-A914-6AD3": {
       "activated_at": null,
       "days": 30,
-      "expiry": 1792323905975,
-      "machine": null,
-      "status": "active"
-    },
-    "70D0-93A6-7FFE-EE9F": {
-      "activated_at": null,
-      "days": 30,
-      "expiry": 1792323905975,
-      "machine": null,
-      "status": "active"
-    },
-    "D502-515B-886A-DBFD": {
-      "activated_at": null,
-      "days": 30,
-      "expiry": 1792323905975,
+      "expiry": 1792328196417,
       "machine": null,
       "status": "active"
     }
   },
-  "signature": "vmDO1Kza+wBwjTUUUi69tRWYIAXbvqMiRcrsTNn9TBE=",
+  "signature": "JpbrsM8A55DGLlSQiJq5LZE9cpVQOXgt8sAKcDAA8j4=",
   "version": 1
 }
