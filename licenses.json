@@ -1,6 +1,13 @@
 {
-  "generated_at": 1789736668067,
+  "generated_at": 1789739574061,
   "licenses": {
+    "3K7h2zZBH6njuJJCwU": {
+      "activated_at": null,
+      "days": 30,
+      "expiry": 1792331574061,
+      "machine": null,
+      "status": "active"
+    },
     "757D-CFD9-EAFB-E896": {
       "activated_at": null,
       "days": 30,
@@ -14,8 +21,15 @@
       "expiry": 1792328196417,
       "machine": null,
       "status": "active"
+    },
+    "CDnFdxTpFsfjD9CWBY": {
+      "activated_at": null,
+      "days": 30,
+      "expiry": 1792329919851,
+      "machine": null,
+      "status": "active"
     }
   },
-  "signature": "LWKaUxsUTHPLwi5ArxNPj5bJOeEJsNgnzTDyDhcdrzs=",
+  "signature": "Cggp7slm81FkusUGMxDr9qlWEboLPjD/IgvBm3pkR+8=",
   "version": 1
 }
