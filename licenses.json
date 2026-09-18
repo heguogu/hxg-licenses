@@ -1,0 +1,28 @@
+{
+  "generated_at": 1789731905975,
+  "licenses": {
+    "62ED-7623-02B7-1502": {
+      "activated_at": null,
+      "days": 30,
+      "expiry": 1792323905975,
+      "machine": null,
+      "status": "active"
+    },
+    "70D0-93A6-7FFE-EE9F": {
+      "activated_at": null,
+      "days": 30,
+      "expiry": 1792323905975,
+      "machine": null,
+      "status": "active"
+    },
+    "D502-515B-886A-DBFD": {
+      "activated_at": null,
+      "days": 30,
+      "expiry": 1792323905975,
+      "machine": null,
+      "status": "active"
+    }
+  },
+  "signature": "vmDO1Kza+wBwjTUUUi69tRWYIAXbvqMiRcrsTNn9TBE=",
+  "version": 1
+}
