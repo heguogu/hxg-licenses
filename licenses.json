@@ -1,6 +1,13 @@
 {
-  "generated_at": 1789736196417,
+  "generated_at": 1789736668067,
   "licenses": {
+    "757D-CFD9-EAFB-E896": {
+      "activated_at": null,
+      "days": 30,
+      "expiry": 1792328668067,
+      "machine": null,
+      "status": "active"
+    },
     "AE39-2D65-A914-6AD3": {
       "activated_at": null,
       "days": 30,
@@ -9,6 +16,6 @@
       "status": "active"
     }
   },
-  "signature": "JpbrsM8A55DGLlSQiJq5LZE9cpVQOXgt8sAKcDAA8j4=",
+  "signature": "LWKaUxsUTHPLwi5ArxNPj5bJOeEJsNgnzTDyDhcdrzs=",
   "version": 1
 }
