@@ -23,10 +23,10 @@
       "status": "active"
     },
     "CDnFdxTpFsfjD9CWBY": {
-      "activated_at": null,
+      "activated_at": 1789743787586,
       "days": 30,
       "expiry": 1792329919851,
-      "machine": null,
+      "machine": "G:8748c3ef-4da4-4f1f-9ec9-c46db8ccce5b",
       "status": "active"
     },
     "MrnTCMMq3D44mRq9t4": {
@@ -37,6 +37,6 @@
       "status": "active"
     }
   },
-  "signature": "gKKeSvq1zirCXskingtksYjj0ai8Cbm4zbVVQx01mYw=",
+  "signature": "Uzo1Bghc6gKF1WpJ8jWj05ETFw9plEQPtHwcISI5CZw=",
   "version": 1
 }
