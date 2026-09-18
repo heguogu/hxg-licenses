@@ -1,33 +1,33 @@
 {
-  "generated_at": 1789739928493,
+  "generated_at": 1789744267456,
   "licenses": {
     "3K7h2zZBH6njuJJCwU": {
       "activated_at": null,
       "days": 30,
       "expiry": 1792331574061,
       "machine": null,
-      "status": "active"
+      "status": "revoked"
     },
     "757D-CFD9-EAFB-E896": {
       "activated_at": null,
       "days": 30,
       "expiry": 1792328668067,
       "machine": null,
-      "status": "active"
+      "status": "revoked"
     },
     "AE39-2D65-A914-6AD3": {
       "activated_at": null,
       "days": 30,
       "expiry": 1792328196417,
       "machine": null,
-      "status": "active"
+      "status": "revoked"
     },
     "CDnFdxTpFsfjD9CWBY": {
       "activated_at": null,
       "days": 30,
       "expiry": 1792329919851,
       "machine": null,
-      "status": "active"
+      "status": "revoked"
     },
     "MrnTCMMq3D44mRq9t4": {
       "activated_at": null,
@@ -35,8 +35,15 @@
       "expiry": 1792331928493,
       "machine": null,
       "status": "active"
+    },
+    "vgjeYaP6HVZqMGgh99": {
+      "activated_at": null,
+      "days": 30,
+      "expiry": 1792336267456,
+      "machine": null,
+      "status": "active"
     }
   },
-  "signature": "gKKeSvq1zirCXskingtksYjj0ai8Cbm4zbVVQx01mYw=",
+  "signature": "MvVeQ4LpNTVvM1oqA7QUwHLI6zia8tX/jk1nCQBK6ug=",
   "version": 1
 }
