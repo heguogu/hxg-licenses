@@ -1,5 +1,5 @@
 {
-  "generated_at": 1789748501548,
+  "generated_at": 1790091807997,
   "licenses": {
     "3K7h2zZBH6njuJJCwU": {
       "activated_at": null,
@@ -23,10 +23,10 @@
       "status": "revoked"
     },
     "BWYNcY6g8urYGEaY6s": {
-      "activated_at": 1789748619453,
+      "activated_at": null,
       "days": 30,
       "expiry": 1792340501548,
-      "machine": "G:8748c3ef-4da4-4f1f-9ec9-c46db8ccce5b",
+      "machine": null,
       "status": "active"
     },
     "CDnFdxTpFsfjD9CWBY": {
@@ -43,6 +43,13 @@
       "machine": null,
       "status": "active"
     },
+    "RcgwpvQ3Bun34ktHj4": {
+      "activated_at": null,
+      "days": 30,
+      "expiry": 1792683807997,
+      "machine": null,
+      "status": "active"
+    },
     "vgjeYaP6HVZqMGgh99": {
       "activated_at": null,
       "days": 30,
@@ -51,6 +58,6 @@
       "status": "revoked"
     }
   },
-  "signature": "SybOGQsQ0YMbcbiY3ejNlefQP9RYv1xsw72aQek2w5w=",
+  "signature": "DCbVZC+A6Um7GrA6cFJs0e6udzh6uQtPK2srmAY5Qo8=",
   "version": 1
 }
