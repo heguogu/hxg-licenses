@@ -1,5 +1,5 @@
 {
-  "generated_at": 1790274597728,
+  "generated_at": 1790274740594,
   "licenses": {
     "3K7h2zZBH6njuJJCwU": {
       "activated_at": null,
@@ -43,6 +43,13 @@
       "machine": null,
       "status": "revoked"
     },
+    "JTvqgNxqNUvwBaBWFq": {
+      "activated_at": null,
+      "days": 30,
+      "expiry": 1792866740593,
+      "machine": null,
+      "status": "active"
+    },
     "MrnTCMMq3D44mRq9t4": {
       "activated_at": null,
       "days": 30,
@@ -72,6 +79,6 @@
       "status": "revoked"
     }
   },
-  "signature": "PG6sm/M0VfGPr1tLOnXwdfq1i4fzaijjMkRc/XyL+Ck=",
+  "signature": "VQUeK1Vzs+D2LQBQ6xQ3YAdetQOgAlFWuhtX2wY2pxI=",
   "version": 1
 }
