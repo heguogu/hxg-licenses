@@ -23,10 +23,10 @@
       "status": "revoked"
     },
     "BWYNcY6g8urYGEaY6s": {
-      "activated_at": 1790274767915,
+      "activated_at": null,
       "days": 30,
       "expiry": 1792340501548,
-      "machine": "G:8748c3ef-4da4-4f1f-9ec9-c46db8ccce5b",
+      "machine": null,
       "status": "active"
     },
     "CDnFdxTpFsfjD9CWBY": {
@@ -79,6 +79,6 @@
       "status": "revoked"
     }
   },
-  "signature": "gCHND1ImFxTzg0ERLnBjwh/IbqOsuMhUmXyZywnudjM=",
+  "signature": "VQUeK1Vzs+D2LQBQ6xQ3YAdetQOgAlFWuhtX2wY2pxI=",
   "version": 1
 }
